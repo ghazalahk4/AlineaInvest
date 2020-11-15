@@ -1,9 +1,9 @@
 # AlineaInvest
 
 
-Demo Video 
+Demo Video can also me checked out at this path Screenshots/explore.mov
 
-![](Screenshots/explore.mov)
+
 
 ![](Screenshots/1.png)
 
